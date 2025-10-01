@@ -6,9 +6,9 @@
 
 ### 🚀 About Me  
 - 🔭 Currently working on :
- - Obtaining my Masters of Coomputer Science at UTK
- - a Gameboy Emulator using C++
- - a Food Planner and Recommendation Andriond App
+  - Obtaining my Masters of Coomputer Science at UTK
+  - a Gameboy Emulator using C++
+  - a Food Planner and Recommendation Andriond App
 - 🌱 Learning: **Android Dev and Advanced C++** 
 - 💬 Ask me about:
    - My time working at Centene
