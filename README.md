@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 Quanayzia Garden
 
-<!--
-**gardenqu/gardenqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Backend Enthusiast | Lifelong Learner**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🔭 Currently working on :
+ - Obtaining my Masters of Coomputer Science at UTK
+ - a Gameboy Emulator using C++
+ - a Food Planner and Recommendation Andriond App
+- 🌱 Learning: **Android Dev and Advanced C++** 
+- 💬 Ask me about:
+   - My time working at Centene
+   - UTK's Online Masters program
+   - Any of the projects I am working on
+   - My Top 5 Animes 
+- ⚡ Fun fact: I transitioned from **Laboratory Animal Science** to **Software Development**
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:**  
+`Java` · `Kotlin`. `Python` · `C++` · `SQL`  
+
+**Frameworks & Tools:**  
+`Spring Boot` · `Django` · `Andriod Studios`. `Docker`
+
+**Databases:**  
+`MySQL` · `PostgreSQL` · `SQLite`  
+
+---
+
+
+### 🌐 Connect with Me  
+- 📫 [Email Me](mailto:qjgarden1@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/quanayzia-garden-917224118/) 
+
+---
+✨ Thanks for visiting my profile! ✨
