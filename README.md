@@ -24,7 +24,7 @@
 `Java` · `Kotlin`. `Python` · `C++` · `SQL`  
 
 **Frameworks & Tools:**  
-`Spring Boot` · `Django` · `Andriod Studios`. `Docker`
+`Spring Boot` · `Flask` · `Andriod Studios`. `Docker`
 
 **Databases:**  
 `MySQL` · `PostgreSQL` · `SQLite`  
