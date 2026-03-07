@@ -7,7 +7,7 @@
 ### 🚀 About Me  
 - 🔭 Currently working on :
   - Obtaining my Masters of Coomputer Science at UTK
-  - a Gameboy Emulator using C++
+  - a Crossword application
   - a Food Planner and Recommendation Andriond App
 - 🌱 Learning: **Android Dev and Advanced C++** 
 - 💬 Ask me about:
