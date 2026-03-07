@@ -9,7 +9,7 @@
   - Obtaining my Masters of Coomputer Science at UTK
   - a Crossword application
   - a Food Planner and Recommendation Andriod App
-- 🌱 Learning: **Android Dev and Advanced C++** 
+- 🌱 Learning: **Deep Learning and AWS** 
 - 💬 Ask me about:
    - My time working at Centene
    - UTK's Online Masters program
