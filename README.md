@@ -8,7 +8,7 @@
 - 🔭 Currently working on :
   - Obtaining my Masters of Coomputer Science at UTK
   - a Crossword application
-  - a Food Planner and Recommendation Andriond App
+  - a Food Planner and Recommendation Andriod App
 - 🌱 Learning: **Android Dev and Advanced C++** 
 - 💬 Ask me about:
    - My time working at Centene
