@@ -162,15 +162,15 @@ Planned capabilities include:
 
 ## 🎯 Current Goal
 
+*Obtain CompTIA Security+ certification 
+
 I'm currently looking for opportunities where I can continue growing as a **software developer**, particularly in:
 
 * Backend Engineering
 * Java / Spring Boot
 * Python
-* C++
 * AI/ML Engineering
 * Software Development
-* Cloud Engineering
 
 I'm especially interested in roles where I can work on **real systems, solve interesting technical problems, and continue expanding my engineering skill set.**
 
