@@ -112,53 +112,38 @@ Eventually, I transitioned from laboratory science into software engineering and
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Applications
 
-### 🧠 Brain Tumor MRI Classification
+### 🧠 LearnWell
 
-Deep learning image classification project using MRI scans to classify brain tumors.
+Educational application developed as part of the **GDI Hackathon 2024**.
 
-**Technologies:** Python · CNN · ResNet-50 · Deep Learning
-
-* Worked with a dataset containing **7,200 MRI images**
-* Classified images into **4 tumor categories**
-* Fine-tuned ResNet-50
-* Achieved approximately **93.9% test accuracy**
+**Repository:** https://github.com/christinagoodwin/learnwell-app-gdi-hackathon-2024
 
 ---
 
-### 🧾 Expense Management Platform
+### 💻 RISC-V Emulator
 
-Full-stack expense management system with separate employee and manager applications.
+A RISC-V emulator project focused on understanding processor architecture, instruction execution, and low-level computer systems concepts.
 
-**Technologies:** Java · Spring/REST APIs · Python · Django · SQLite · JUnit · Mockito · REST Assured · Selenium · Cucumber
-
-Features include:
-
-* Employee expense submission
-* Manager approval workflows
-* Expense history
-* Authentication
-* Reporting
-* Automated testing
+**Repository:** https://github.com/gardenqu/COSC530-RISC-V-Emulator-
 
 ---
 
-### 🃏 Poker Assistant
+### 🎵 BeatScouter
 
-A computer vision project designed to help beginner poker players understand their cards and potential hands.
+A music-focused application exploring audio and music-related software development.
 
-**Technologies:** Python · CNN · Computer Vision · C++
-
-Planned capabilities include:
-
-* 📷 Detect playing cards through a camera
-* 🃏 Identify card rank and suit
-* 🧠 Determine possible poker hands
-* 📊 Analyze potential combinations
-* ⚡ Explore C++/CUDA acceleration
+**Repository:** https://github.com/gardenqu/BeatScouter
 
 ---
+
+### 🎧 Spotify Recommendation API
+
+A recommendation-focused API built around Spotify data and music preferences.
+
+**Repository:** https://github.com/gardenqu/SpotifyRecommondationApi
+----
 
 ## 🎯 Current Goal
 
